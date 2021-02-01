@@ -1,0 +1,17 @@
+{
+  "name": "stackoverflow__example",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "./node_modules/.bin/cubejs-server"
+  },
+  "dependencies": {
+    "global": "^4.4.0",
+    "react-map-gl": "^6.1.1"
+  },
+  "devDependencies": {
+    "@cubejs-backend/bigquery-driver": "^0.25.32",
+    "@cubejs-backend/postgres-driver": "^0.25.32",
+    "@cubejs-backend/server": "^0.25.33"
+  }
+}
